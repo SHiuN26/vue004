@@ -98,7 +98,9 @@ $(document).ready(function () {
     var vm =new Vue({
         el: "#app",
         data: {
-            books : bookdatas
+            books : bookdatas,
+            mode_detail: false,
+            mode_size: "big"
         }
     });
 });
