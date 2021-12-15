@@ -2,4 +2,12 @@
 * {
   font-family: 微軟正黑體;
 }
+
+body {
+  padding: 20px;
+}
+
+.bkl_icon {
+  width: 100px;
+}
 /*# sourceMappingURL=vue004.css.map */
